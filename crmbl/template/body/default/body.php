@@ -73,7 +73,7 @@
 				<h3>Social Media Icons, More Lists...</h3>
 			</div>
 		</div>
-		<p id="copyright">Copyright &copy 2023 crmbl CMS</p>
+		<p id="copyright">&copy crmbl CMS</p>
     </footer>
   </div>
 <?php
